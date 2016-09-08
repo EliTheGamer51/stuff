@@ -1,0 +1,35 @@
+Bitcoin, what you need to know.
+
+// Notices
+(1) You need to educate yourself if you want to get into the bitcoin industry I guess I can call it.
+(2) I am no expert in bitcoin, as a matter of fact, this guide is for newbies who want to get into bitcoin.
+(3) Since I'm that lazy to download Notepad++, I will have spelling mistakes. I'm using regular notepad.exe.
+(4) IMPORTANT - Bitcoin is BANNED in some countries. If you need to know where Bitcoin is allowed, please visit the following site:
+https://en.wikipedia.org/wiki/Legality_of_bitcoin_by_country
+Don't ask, Bitcoin is legal in the United States, but government officials are wary about Bitcoin and could possibly ban it if they wanted to,
+but they would need good proof for it to be banned.
+
+// Introduction
+Bitcoin, is a decentralized digital currency. Bitcoin is the most popular digit currencey. Bitcoin is accepted many places. Places like Shops,
+online purchasing such as Newegg, and best of all, you can send bitcoin to other people. Bitcoin has 5 Pros to this rather than alternetives.
+Bitcoin is cheap, You can send people Bitcoin without going through a bank or clearance house before transaction is made, The fees are lower,
+You can use Bitcoin all around the world, and Bitcoin is open source so anyone can view the code!
+
+
+// How transactions are verified?
+Bitcoin transactions are verified by miners <-- (we will talk about that soon.). Plus this part might be wrong, please tell me if this is wrong.
+Bitcoin transactions are divided into blocks. Miners verify the transactions and make their disissions about it. Some miners could be corrupt
+and falsely deny or allow a transaction. That's why transaction blocks are verified by many others instead of just one.
+
+// What can be Bitcoin illegal for?
+Black markets mostly is the most common illegal part of the Bitcoin. Black markets are highly illegal and can be grounds for arrest if caught
+hosting a black market or buying anything from one. If you buy illegal black market stuff, you can be arrested depending on what did you
+purchase and/or how much did you purchase? If you are caught hosting a black market site, you can be arrested for life, depending on what
+stuff is avaliable to be purchased and/or how many buyers and/or visitors do you have on the illegal site. Bitcoin is legal, just don't
+purchase illegal stuff and you will be fine.
+
+This guide will be updated every couple hours. Currently, this is enough information to get people started on what is Bitcoin. At around 16:30
+Eastern Time United States, I will write more to this.
+
+Want to reupload this? Contact me at elithegamer52@gmail.com
+If you are caught illegally re uploading my work, I will DMCA take down the stuff.
